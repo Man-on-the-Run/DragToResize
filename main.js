@@ -1,6 +1,6 @@
 var sidebar = document.getElementById('sidebar');
 var range = 10;
-
+alert('Git trial');
 function getWidth(element) {
   return parseInt(getComputedStyle(element).getPropertyValue('width'));
 }
