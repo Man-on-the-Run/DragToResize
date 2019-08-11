@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .sidebar{
+    width: 200px;
+    height: 100vh;
+    border: 1px solid;
+  }
+  
+  .on-edge{
+    cursor: move;
+    border-right: 1px dashed blue;
+  }
+  
+  .resizing{
+    cursor: ew-resize;
+  }
